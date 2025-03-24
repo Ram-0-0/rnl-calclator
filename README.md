@@ -10,7 +10,7 @@
 - サーバーを再起動
 
 # 使用方法
-`/cal`コマンドを使用して計算機UIを表示
+`/cal`コマンドを使用して計算機UIを表示<br>
 ![rnl-calclator-screenshot](rnl-calclator-screenshot.png)
 - 数字ボタンを押して値を入力
 - ACボタンを押して入力をリセット
@@ -23,7 +23,7 @@ QBCore
 コード的に可能:
 すべてのフレームワーク
 
-# Download: [Github]()
+# Download: [Github](https://github.com/Ram-0-0/rnl-calclator)
 
 # Preview: [Youtube](https://youtu.be/JDmop5CBQbc)
 
@@ -33,18 +33,18 @@ QBCore
 
 このスクリプトは以下の場所で配布/販売されています：
 
-無料版：GitHub（リンク）
+無料版：GitHub（https://github.com/Ram-0-0/rnl-calclator)
 
-商用ライセンス等：Tebex（リンク）
+商用ライセンス等：Tebex（https://rnl-scripts.tebex.io/)
 
 Patreonでは、任意の支援を受け付けています（支援しなくても全ての機能は利用可能です）。
 また、支援者にはスクリプトの開発進捗やメモなどを日本語で共有しています（投稿は不定期です）。
 
 Script is distributed via:
 
-Free version: GitHub (link)
+Free version: GitHub (https://github.com/Ram-0-0/rnl-calclator)
 
-Commercial license: Tebex (link)
+Commercial license: Tebex (https://rnl-scripts.tebex.io/)
 
 Patreon is for optional support only.
 All features are available for free; nothing is locked behind Patreon.
