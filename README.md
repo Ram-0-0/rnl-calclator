@@ -1,3 +1,31 @@
+# Features
+- Simple calculator system  
+- Supports keyboard input
+
+# Installation
+- Download the zip file  
+- Extract the downloaded zip file  
+- Place `rnl-calculator` into your `resources` folder  
+- Add `ensure rnl-calculator` to your `server.cfg`  
+- Restart your server
+
+# Usage
+Use the `/cal` command to open the calculator UI  
+<br>
+![rnl-calclator-screenshot](rnl-calclator-screenshot.png)
+
+- Press number buttons to input values  
+- Press the AC button to reset input  
+- Press the ← button to delete values one by one  
+- Press the operator buttons on the right to calculate
+
+# Dependencies
+Confirmed working with:  
+QBCore  
+<br>
+Should work with:  
+All frameworks (based on code compatibility)
+
 # 特徴
 - シンプルな計算機システム
 - キーボード入力に対応
