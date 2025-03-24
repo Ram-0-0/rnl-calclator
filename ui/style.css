@@ -1,0 +1,81 @@
+* {
+    font-family: "RocknRoll One", sans-serif;
+}
+
+body {
+    display: none;
+}
+
+.calculator {
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(15, 15, 15, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    width: 313px;
+    user-select: none;
+}
+
+.screen-par {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px 8px;
+    text-align: right;
+    font-size: 22px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    border: 8px ridge;
+    width: 278px;
+}
+
+.notify {
+    position: absolute;
+    color: rgba(15, 15, 15, 0.8);
+    display: none;
+}
+
+.screen {
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+    cursor: default;
+}
+
+.calc-button {
+    margin: 5px 2px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 0px;
+    border-radius: 5px;
+    height: 50px;
+    width: 70px;
+}
+
+.calc-button:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.calc-button:active {
+    background-color: rgba(255, 255, 255, 0.5);
+    transform: translate(1px, 1px);
+}
+
+.calc-button:focus {
+    outline: transparent;
+}
+
+.calc-button:last-child {
+    background-color: rgba(155, 240, 255, 0.9);
+}
+
+.calc-button:last-child:hover {
+    background-color: rgba(155, 240, 255, 0.7);
+}
+
+.calc-button:last-child:active {
+    background-color: rgba(155, 240, 255, 0.4);
+}
+
+.back {
+    width: 149px;
+}
