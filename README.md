@@ -61,7 +61,7 @@ QBCore<br>
 
 このスクリプトは以下の場所で配布/販売されています：
 
-無料版：GitHub（https://github.com/Ram-0-0/rnl-calclator)
+無料版：GitHub（https://github.com/Ram-0-0)
 
 商用ライセンス等：Tebex（https://rnl-scripts.tebex.io/)
 
@@ -70,7 +70,7 @@ Patreonでは、任意の支援を受け付けています（支援しなくて�
 
 Script is distributed via:
 
-Free version: GitHub (https://github.com/Ram-0-0/rnl-calclator)
+Free version: GitHub (https://github.com/Ram-0-0)
 
 Commercial license: Tebex (https://rnl-scripts.tebex.io/)
 
